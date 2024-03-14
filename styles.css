@@ -2,19 +2,19 @@ body {
   margin: 0;
 }
 
-/* PLACEHOLDER SIZE */
 img {
   width: 100%;
   height: auto;
 }
 
+/* PLACEHOLDER header & footer
 header {
   
 }
 
 footer {
 
-}
+}  */
 
 .imageCard {
   border: 1px solid black;
