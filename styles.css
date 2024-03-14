@@ -8,6 +8,10 @@ body {
   width: 300px;
 } */
 
+header {
+  max-width:100%; height:auto;
+}
+
 .imageCard {
   border: 1px solid black;
 
