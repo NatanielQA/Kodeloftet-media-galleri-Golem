@@ -3,13 +3,17 @@ body {
 }
 
 /* PLACEHOLDER SIZE */
-/*img {
-  height: 200px;
-  width: 300px;
-} */
+img {
+  width: 100%;
+  height: auto;
+}
 
 header {
   
+}
+
+footer {
+
 }
 
 .imageCard {
@@ -22,6 +26,13 @@ header {
 }
 
 .topSection {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.BottomSection {
   min-height: 100vh;
   display: flex;
   justify-content: center;
