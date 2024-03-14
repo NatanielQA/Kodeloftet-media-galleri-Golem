@@ -10,11 +10,12 @@ img {
 /* PLACEHOLDER header & footer
 header {
   
-}
+}*/
 
 footer {
-
-}  */
+  position: sticky;
+  bottom: 0;
+}  
 
 .imageCard {
   border: 1px solid black;
